@@ -1,0 +1,15 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales o caché
+*.log
+*.tmp
+
+# Carpetas de compilación
+dist/
+build/
+node_modules/
+
+# Archivos del sistema de VSCode
+.vscode/
