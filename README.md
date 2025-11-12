@@ -8,26 +8,26 @@ El primer acto, **“El trazo detenido | Recuerdo”**, relata la historia de **
 ---
 
 ## 🧩 Estructura del proyecto
+```text
 showcase-death/
 │
-├── index.html # Página principal del cómic
+├── index.html                # Página principal del cómic
 ├── capitulos/
-│ ├── PrimerActo.html # Escena I – "El trazo detenido | Recuerdo"
-│ └── ... # Próximos actos
+│   ├── PrimerActo.html       # Escena I – "El trazo detenido | Recuerdo"
+│   └── ...                   # Próximos actos
 │
 ├── css/
-│ └── estilos.css # Estilos principales (modo oscuro)
+│   └── estilos.css           # Estilos principales (modo oscuro)
 │
 ├── js/
-│ └── main.js # Animaciones y control de audio
+│   └── main.js               # Animaciones y control de audio
 │
 ├── assets/
-│ ├── img/ # Ilustraciones y fondos
-│ ├── audio/ # Sonidos y ambiente
-│ └── icons/ # Íconos y gráficos menores
+│   ├── img/                  # Ilustraciones y fondos
+│   ├── audio/                # Sonidos y ambiente
+│   └── icons/                # Íconos y gráficos menores
 │
 └── README.md
-
 
 ---
 
