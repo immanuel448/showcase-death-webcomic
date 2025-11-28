@@ -17,12 +17,7 @@ showcase-death-webcomic/
 │   ├── base.html                 # Plantilla base
 │   ├── PrimerActo.html
 │   ├── SegundoActo.html
-│   ├── TercerActo.html
-│   ├── CuartoActo.html
-│   ├── QuintoActo.html
-│   ├── SextoActo.html
-│   ├── SeptimoActo.html
-│   └── OctavoActo.html
+│   ├── ...
 │
 ├── assets/
 │   ├── audio/
@@ -31,12 +26,7 @@ showcase-death-webcomic/
 │   ├── img/
 │   │   ├── cap1/                # Imágenes del Acto 1
 │   │   ├── cap2/                # Imágenes del Acto 2
-│   │   ├── cap3/
-│   │   ├── cap4/
-│   │   ├── cap5/
-│   │   ├── cap6/
-│   │   ├── cap7/
-│   │   └── cap8/
+│   │   ├── ...
 │   │
 │   ├── actos.webp               # Portada lista de actos
 │   └── fondo.png                # Fondo general del sitio
