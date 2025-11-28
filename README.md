@@ -9,25 +9,47 @@ El primer acto, **“El trazo detenido | Recuerdo”**, relata la historia de **
 
 ## 🧩 Estructura del proyecto
 ```text
-showcase-death/
+showcase-death-webcomic/
 │
-├── index.html                # Página principal del cómic
-├── capitulos/
-│   ├── PrimerActo.html       # Escena I – "El trazo detenido | Recuerdo"
-│   └── ...                   # Próximos actos
+├── index.html                    # Página principal del cómic
 │
-├── css/
-│   └── estilos.css           # Estilos principales (modo oscuro)
-│
-├── js/
-│   └── main.js               # Animaciones y control de audio
+├── capitulos/                    # Cada acto (capítulo) del webcómic
+│   ├── base.html                 # Plantilla base
+│   ├── PrimerActo.html
+│   ├── SegundoActo.html
+│   ├── TercerActo.html
+│   ├── CuartoActo.html
+│   ├── QuintoActo.html
+│   ├── SextoActo.html
+│   ├── SeptimoActo.html
+│   └── OctavoActo.html
 │
 ├── assets/
-│   ├── img/                  # Ilustraciones y fondos
-│   ├── audio/                # Sonidos y ambiente
-│   └── icons/                # Íconos y gráficos menores
+│   ├── audio/
+│   │   └── lluvia.mp3           # Efectos de sonido
+│   │
+│   ├── img/
+│   │   ├── cap1/                # Imágenes del Acto 1
+│   │   ├── cap2/                # Imágenes del Acto 2
+│   │   ├── cap3/
+│   │   ├── cap4/
+│   │   ├── cap5/
+│   │   ├── cap6/
+│   │   ├── cap7/
+│   │   └── cap8/
+│   │
+│   ├── actos.webp               # Portada lista de actos
+│   └── fondo.png                # Fondo general del sitio
+│
+├── css/
+│   └── estilos.css              # Estilos principales (tema oscuro + blur)
+│
+├── js/
+│   ├── acceso.js                # Control de acceso (si aplica)
+│   └── audio.js                 # Control del sonido ambiente
 │
 └── README.md
+
 
 ---
 
