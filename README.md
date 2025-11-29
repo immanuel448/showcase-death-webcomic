@@ -29,7 +29,8 @@ showcase-death-webcomic/
 │   │   ├── ...
 │   │
 │   ├── actos.webp               # Portada lista de actos
-│   └── fondo.png                # Fondo general del sitio
+│   ├── fondo.webp               # Fondo general del sitio               
+│   └── fondo2.webp                
 │
 ├── css/
 │   └── estilos.css              # Estilos principales (tema oscuro + blur)
