@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
       loop: true,
       volume: 0.1,
       html5: true,
-      autoplay: true
+      autoplay: false
     });
 
     sonidoFondo.once('play', () => {
