@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
   if (!boton) return;
 
   const sonido = new Howl({
-    src: ["../assets/audio/showcase.mp3"], // sonido especial para index
+    src: ["assets/audio/showcase.mp3"], // sonido especial para index
     loop: false,    // ❌ NO repetir
     volume: 0.5,
     html5: true
