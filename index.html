@@ -10,7 +10,10 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css">
 </head>
 
-<body class="fade-page pagina-especial">
+  <body class="fade-page pagina-especial">
+    <!-- Botón de audio -->
+  <button id="toggleAudio" class="audio-btn">🔈</button>
+
   <main class="contenedor" id="contenido-principal">
     <div class="titulo-principal">
       <h1>Showcase: Death</h1>
@@ -91,5 +94,9 @@
 
   <!-- Si tienes JS propio para animaciones del index -->
   <script src="js/mainSimple.js"></script>
+    <!-- Howler (necesario para usar new Howl) -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.4/howler.min.js"></script>
+  <script src="js/audioIndex.js"></script>
+  
 </body>
 </html>
