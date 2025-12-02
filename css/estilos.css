@@ -24,14 +24,14 @@ body::before {
   content: "";
   position: absolute;
   inset: 0;
-  background: url('/assets/img/fondo.webp') no-repeat center center;
+  background: url('../assets/img/fondo.webp') no-repeat center center;
   background-size: cover;
   filter: brightness(0.7);
   z-index: -1;
 }
 
 body.pagina-especial::before {
-  background: url('/assets/img/fondo2.webp') no-repeat center center;
+  background: url('../assets/img/fondo2.webp') no-repeat center center;
   background-size: cover;
   filter: brightness(0.7);
 }
