@@ -6,15 +6,15 @@ document.addEventListener('DOMContentLoaded', () => {
   const botonAudio = document.getElementById('toggleAudio');
 
   // === 🎵 SONIDO DE FONDO ===
-  const archivoFondo = document.body.dataset.audio || '../assets/audio/lluvia.mp3';
+  const archivoFondo = document.body.dataset.audio || '../assets/audio/';
   let reproduciendoFondo = false;
 
   let sonidoFondo;
   try {
     sonidoFondo = new Howl({
-      src: [archivoFondo],
+      src: [archivoFondo], 
       loop: true,
-      volume: 1,
+      volume: 0.1,
       html5: true,
       autoplay: true
     });
