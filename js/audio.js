@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
     sonidoFondo = new Howl({
       src: [archivoFondo], 
       loop: true,
-      volume: 0.5,
+      volume: 0.4,
       html5: true,
       autoplay: true
     });

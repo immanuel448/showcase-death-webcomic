@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const sonido = new Howl({
     src: ["assets/audio/showcase.mp3"], // sonido especial para index
     loop: false,    // ❌ NO repetir
-    volume: 0.5,
+    volume: 0.7,
     html5: true
   });
 
