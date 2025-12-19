@@ -88,6 +88,6 @@ El contenido visual y narrativo pertenece a su autor y no puede ser redistribuid
 
 🌐 Demo en línea
 
-Cuando el proyecto esté publicado mediante GitHub Pages, podrás acceder desde:
+El proyecto está publicado mediante GitHub Pages, accede desde:
 🔗 https://immanuel448.github.io/showcase-death-webcomic/
 
