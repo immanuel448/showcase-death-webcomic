@@ -40,8 +40,7 @@ showcase-death-webcomic/
 │   └── audio.js                 # Control del sonido ambiente
 │
 └── README.md
-
-
+```
 ---
 
 ## 🧠 Tecnologías utilizadas
