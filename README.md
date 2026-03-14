@@ -72,20 +72,20 @@ showcase-death-webcomic/
 3. Abre en tu navegador:
 http://127.0.0.1:5500/index.html
 
-🕯️ Créditos
+## 🕯️ Créditos
 
-Autor: Immanuel L.
+Autor: Lucero Emmanuel
 
 Diseño, ilustración y desarrollo web: autor del proyecto
 
 Música y efectos: sonidos ambientales libres de derechos
 
-⚖️ Licencia
+## ⚖️ Licencia
 
 Este proyecto es de carácter personal y no comercial.
 El contenido visual y narrativo pertenece a su autor y no puede ser redistribuido ni modificado sin permiso.
 
-🌐 Demo en línea
+## 🌐 Demo en línea
 
 El proyecto está publicado mediante GitHub Pages, accede desde:
 🔗 https://immanuel448.github.io/showcase-death-webcomic/
